@@ -1,14 +1,14 @@
-# ✋ Gesture Hand Recognition
+#  Gesture Hand Recognition
 
 Hệ thống nhận diện cử chỉ tay sử dụng **MediaPipe + OpenCV + Python** để điều khiển thiết bị (ESP32).
 ---
 ## Thông tin
-Code nhúng vào ESP32 được upload và build trên PlatformIO.
+* Code nhúng vào ESP32 được upload và build trên PlatformIO.
 ---
 
 ## 📸 Demo
 
-![Demo](images/demo1.png)
+![Demo](images/demo1.jpg)
 
 ---
 
@@ -31,28 +31,29 @@ Code nhúng vào ESP32 được upload và build trên PlatformIO.
 ## 🔧 Cách lắp đặt cánh tay
 
 ### Bước 1
-![Bước 1](images/cre1.png)
+![Bước 1](images/cre1.jpg)
 
 ### Bước 2
-![Bước 2](images/cre2.png)
+![Bước 2](images/cre2.jpg)
 
 ### Bước 3
-![Bước 3](images/cre3.png)
+![Bước 3](images/cre3.jpg)
 
 ### Bước 4
-![Bước 4](images/cre4.png)
+![Bước 4](images/cre4.jpg)
 
 ### Bước 5
-![Bước 5](images/cre5.png)
+![Bước 5](images/cre5.jpg)
 
 ### Bước 6
-![Bước 6](images/cre6.png)
+![Bước 6](images/cre6.jpg)
 
 ### Bước 7
-![Bước 7](images/cre7.png)
+![Bước 7](images/cre7.jpg)
 
 ### Bước 8
-![Bước 8](images/cre8.png)
+![Bước 8](images/cre8.jpg)
+
 ---
 ## 🚀 Cài đặt 
 
